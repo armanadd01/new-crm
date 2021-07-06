@@ -20,8 +20,9 @@
 <body class="hold-transition sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed">
 <div class="wrapper">
   <?php include 'topbar.php' ?>
+  
   <?php include 'sidebar.php' ?>
-
+  <a href="#"></a>
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
   	 <div class="toast" id="alert_toast" role="alert" aria-live="assertive" aria-atomic="true">
